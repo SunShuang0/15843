@@ -1,0 +1,4 @@
+﻿  B.c
+D:\Programfile\vsworks\15843-732B\B.c(19,10): warning C4101: “de_tag”: 未引用的局部变量
+D:\Programfile\vsworks\15843-732B\B.c(57,17): warning C4090: “函数”: 不同的“const”限定符
+  15843-732B.vcxproj -> D:\Programfile\vsworks\15843-732B\x64\Debug\15843-732B.exe
