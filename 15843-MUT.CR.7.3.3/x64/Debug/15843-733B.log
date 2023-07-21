@@ -1,0 +1,14 @@
+﻿  B.c
+D:\Programfile\vsworks\15843-733B\B.h(90,73): warning C4031: 第二个形参表比第一个长
+D:\Programfile\vsworks\15843-733B\B.h(90,73): warning C4028: 形参 2 与声明不同
+D:\Programfile\vsworks\15843-733B\B.c(39,49): warning C4133: “函数”: 从“LPCSTR”到“LPCWSTR”的类型不兼容
+D:\Programfile\vsworks\15843-733B\B.c(47,57): warning C4133: “函数”: 从“LPCSTR”到“LPCWSTR”的类型不兼容
+D:\Programfile\vsworks\15843-733B\B.c(106,10): warning C4101: “de_tag”: 未引用的局部变量
+D:\Programfile\vsworks\15843-733B\B.c(136,17): warning C4090: “函数”: 不同的“const”限定符
+  main.c
+D:\Programfile\vsworks\15843-733B\main.c(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\Programfile\vsworks\15843-733B\main.c(1,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+D:\Programfile\vsworks\15843-733B\main.c(37,2): warning C4013: “BverifyA”未定义；假设外部返回 int
+D:\Programfile\vsworks\15843-733B\main.c(39,2): warning C4013: “genTokenBA”未定义；假设外部返回 int
+  正在生成代码...
+  15843-733B.vcxproj -> D:\Programfile\vsworks\15843-733B\x64\Debug\15843-733B.exe
